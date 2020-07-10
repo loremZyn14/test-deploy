@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Yes! I successfully deploy my laravel app in heroku .
                 </div>
 
                 <div class="links">
